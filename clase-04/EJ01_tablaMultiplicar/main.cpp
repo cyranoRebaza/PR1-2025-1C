@@ -52,7 +52,7 @@ int main()
 
     for(int i = 1; i <= numero; i++)
     {
-        cout << numero << " * " << i << "  =  " << numero * i << endl;
+        cout << numero << " * " << i << "  = " << numero * i << endl;
     }
 
 
